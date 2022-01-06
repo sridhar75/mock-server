@@ -18,6 +18,10 @@ http://demo.mockapi.org/__manage
 Installation
 ============
 
+<a href="https://heroku.com/deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+
 Install with pip::
 
     $ pip install mock-server

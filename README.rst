@@ -18,7 +18,7 @@ http://demo.mockapi.org/__manage
 Installation
 ============
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/sridhar75/mock-server)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sridhar75/mock-server)
 
 Install with pip::
 
